@@ -1,0 +1,5 @@
+Kas ir git?
+Git ir palīgrīks, kas spēj saglabāt iepriekšējo projektu informāciju. Iespējams izmantot vairākas noderīgas lietas kā branch un merge.
+
+Git versiju kontrole
+Šis ir svarīgi, jo mainot kodu var tikt pieļautas kļūdas ko pamana tikai vēlāk, tādēļ noder saglabātās vecās versijas, lai varētu atgūt savu kodu, kas vēl strādā.
